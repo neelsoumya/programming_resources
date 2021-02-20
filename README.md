@@ -8,6 +8,8 @@ Reesources for learning and teaching programming
 
 * C
 
+     * https://www.youtube.com/channel/UCDMHOBgLbMtpaZoy-zwQOjw/playlists
+
      * gcc -O2 -lgsl -lgslcblas gibbs.c -o gibbs
       -O2 
       
