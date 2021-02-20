@@ -37,3 +37,12 @@ Reesources for learning and teaching programming
 * SQL
 
      * https://sites.google.com/site/neelsoumya/research-resources/basic-sql
+
+
+* High performance computing
+
+     * https://sites.google.com/site/neelsoumya/research-resources/high-performance-computing
+
+* Source control
+
+     * https://sites.google.com/site/neelsoumya/research-resources/source-control
