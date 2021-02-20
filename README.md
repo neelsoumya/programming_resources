@@ -32,3 +32,8 @@ Reesources for learning and teaching programming
 * R
 
      * https://sites.google.com/site/neelsoumya/research-resources/very-basic-r     
+
+
+* SQL
+
+     * https://sites.google.com/site/neelsoumya/research-resources/basic-sql
