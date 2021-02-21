@@ -1,6 +1,6 @@
 # programming_resources
 
-Reesources for learning and teaching programming
+Reesources for learning and teaching programming.
 
 *   C++
 
