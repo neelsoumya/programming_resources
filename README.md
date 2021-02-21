@@ -40,9 +40,14 @@ Reesources for learning and teaching programming
 
      * https://sites.google.com/site/neelsoumya/research-resources/basic-sql
 
-* MNATLAB
+* MATLAB
 
      * https://sites.google.com/site/neelsoumya/research-resources/matlab-nuggets
+     
+
+* Unix and shell scriping
+
+     * https://sites.google.com/site/neelsoumya/research-resources/very-basic-unix
      
 
 * High performance computing
