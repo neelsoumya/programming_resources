@@ -48,12 +48,15 @@ Reesources for learning and teaching programming.
 * Unix and shell scriping
 
      * https://sites.google.com/site/neelsoumya/research-resources/very-basic-unix
+
+
+* Haskell and functional programming
      
 
 * High performance computing
 
      * https://sites.google.com/site/neelsoumya/research-resources/high-performance-computing
 
-* Source control
+* Source control, version control and git
 
      * https://sites.google.com/site/neelsoumya/research-resources/source-control
