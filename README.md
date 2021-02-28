@@ -45,7 +45,7 @@ Reesources for learning and teaching programming.
      * https://sites.google.com/site/neelsoumya/research-resources/matlab-nuggets
      
 
-* Unix and shell scriping
+* Unix and shell scripting
 
      * https://sites.google.com/site/neelsoumya/research-resources/very-basic-unix
 
