@@ -51,7 +51,8 @@ Reesources for learning and teaching programming.
 
 
 * Haskell and functional programming
-     
+
+     * http://learnyouahaskell.com/introduction
 
 * High performance computing
 
