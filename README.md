@@ -35,6 +35,8 @@ Reesources for learning and teaching programming.
 
      * https://sites.google.com/site/neelsoumya/research-resources/very-basic-r     
 
+     * https://www.coursera.org/learn/r-programming
+
 
 * SQL
 
