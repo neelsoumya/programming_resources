@@ -39,6 +39,9 @@ Reesources for learning and teaching programming.
 
      * https://www.coursera.org/learn/r-programming
 
+* Java
+
+     * https://www.learnjavaonline.org/en/Variables_and_Types
 
 * SQL
 
