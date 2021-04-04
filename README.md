@@ -8,7 +8,7 @@ Reesources for learning and teaching programming.
 
 * C
 
-     * Playlists of videos to learn C  
+     * Playlists of videos to learn C by Prof. Rajiv Dharaskar 
      
           * https://www.youtube.com/channel/UCDMHOBgLbMtpaZoy-zwQOjw/playlists
 
@@ -16,12 +16,14 @@ Reesources for learning and teaching programming.
       -O2 
       
       (capital O and 2) optimization to GCC
+      
       -l library options
       
      * gcc -O2 -lgsl -lgslcblas gibbs.c -o gibbs
       -O2 
       
       (capital O and 2) optimization to GCC
+      
       -l library options
 
      * time ./gibbs > data.tab
