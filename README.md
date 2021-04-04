@@ -45,6 +45,8 @@ Reesources for learning and teaching programming.
 
      * https://www.learnjavaonline.org/en/Variables_and_Types
 
+     * https://www.w3schools.com/js/DEFAULT.asp
+
 * SQL
 
      * https://sites.google.com/site/neelsoumya/research-resources/basic-sql
