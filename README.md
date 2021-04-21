@@ -9,6 +9,8 @@ Reesources for learning and teaching programming.
 * C
 
      * Playlists of videos to learn C by Prof. Rajiv Dharaskar 
+
+          * http://www.dharaskar.com/
      
           * https://www.youtube.com/channel/UCDMHOBgLbMtpaZoy-zwQOjw/playlists
 
