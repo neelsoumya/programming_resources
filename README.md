@@ -32,6 +32,12 @@ Reesources for learning and teaching programming.
       
       command to time process 
         
+* C++
+
+     * playlist of videos to teach yourself C++ by Prof. Rajiv Dharaskar
+
+     * https://www.youtube.com/watch?v=Dib4w4q4Mog&list=PLsAEt_bmhFbzDCV8mJ58sScykCqrw6VWQ     
+       
 * Python
 
      * https://sites.google.com/site/neelsoumya/research-resources/basic-python
