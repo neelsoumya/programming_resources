@@ -2,6 +2,10 @@
 
 Reesources for learning and teaching programming.
 
+* How to learn coding
+
+     * https://www.software.ac.uk/blog/2021-11-11-training-resources-researchers-want-learn-code?mc_cid=deb6103876&mc_eid=92e8cf5971
+
 
 *   C++
 
