@@ -21,7 +21,7 @@ Reesources for learning and teaching programming.
 
           * C learning kit
 
-                * https://www.youtube.com/watch?v=l5IpRSvCWsY
+                https://www.youtube.com/watch?v=l5IpRSvCWsY
 
      * gcc -O2 -lgsl -lgslcblas gibbs.c -o gibbs
       -O2 
