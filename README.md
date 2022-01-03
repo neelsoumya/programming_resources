@@ -51,7 +51,11 @@ Reesources for learning and teaching programming.
 
      * https://www.learnpython.org/en/Hello%2C_World%21
      
+     * https://www.coursera.org/learn/python
+     
      * https://sites.google.com/site/neelsoumya/research-resources/basic-python
+
+     
 
 
 * R
