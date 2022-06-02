@@ -55,6 +55,8 @@ Reesources for learning and teaching programming.
      
      * https://sites.google.com/site/neelsoumya/research-resources/basic-python
 
+     * https://github.com/neelsoumya/basic_python 
+
      
 
 
